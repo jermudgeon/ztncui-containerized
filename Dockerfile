@@ -1,4 +1,4 @@
-FROM centos:8
+FROM almalinux
 LABEL Description="ztncui (a ZeroTier network controller user interface) + Zerotier One" Vendor="Key Networks (https://key-networks.com)"
 ADD VERSION .
 
